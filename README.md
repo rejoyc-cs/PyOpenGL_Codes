@@ -4,7 +4,7 @@ Python Programs using PyOpenGL (Python version of OpenGL) for implementing the c
 
 # To setup PyOpenGL in Python3
 
-pip3 install glfw
-pip3 installl pyopengl
-pip3 install pyrr
-pip3 install PyOpenGL_accelerate
+pip3 install glfw "\n"
+pip3 installl pyopengl \n
+pip3 install pyrr \n
+pip3 install PyOpenGL_accelerate \n
