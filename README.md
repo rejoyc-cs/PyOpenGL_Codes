@@ -1,6 +1,9 @@
 # PyOpenGL_Codes
 Python Programs using PyOpenGL (Python version of OpenGL) for implementing the concepts of Computer Graphics
 
+# First you need to install FreeGLUT
+sudo apt-get install freeglut3-dev
+
 
 # To setup PyOpenGL in Python3
 
