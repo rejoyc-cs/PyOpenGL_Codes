@@ -21,9 +21,9 @@ def triangle_draw():
     glClear(GL_COLOR_BUFFER_BIT)
     
     glBegin(GL_TRIANGLES)
-    glVertex3f(5,5,0)
+    glVertex3i(5,5,0)
     glColor3f(0.75,0.5,0.4)
-    glVertex3f(25,5,0)
+    glVertex3i(25,5,0)
     glColor3f(0.15,1.0,0.25)
     glVertex3i(15,15,0)
     glColor3f(0.1,0.55,0.45)
