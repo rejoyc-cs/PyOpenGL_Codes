@@ -2,7 +2,6 @@ import OpenGL
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
-import sys
 
 def reshape(w,h):
     glMatrixMode(GL_PROJECTION)
