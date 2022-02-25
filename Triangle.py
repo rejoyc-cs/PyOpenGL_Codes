@@ -29,17 +29,6 @@ def triangle_draw():
     glColor3f(0.1,0.55,0.45)
     glEnd()
     
-    ''' 
-    #If reshape is not applied
-    glBegin(GL_TRIANGLES)
-    glVertex3f(0.5,0.5,0)
-    glColor3f(0.75,0.5,0.4)
-    glVertex3f(0.25,0.5,0)
-    glColor3f(0.15,1.0,0.25)
-    glVertex3f(0.15,0.15,0)
-    glColor3f(0.1,0.55,0.45)
-    glEnd()
-    '''
     glFlush()
 
 
